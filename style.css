@@ -41,7 +41,7 @@ p#textbluebar {
 table {
   position: relative;
   left: 11em;
-  top: 15em;
+  top: 18em;
 }
 .table {
   padding-right: 30em;
@@ -149,4 +149,3 @@ div#topright {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
